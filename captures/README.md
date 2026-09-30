@@ -13,7 +13,9 @@ caméras en service, d'où les valeurs à zéro.
 
 ## Carte des magasins
 
-Les magasins de l'enseigne, sur la vue globale.
+Les magasins de l'enseigne sur la vue globale, en thème sombre. Survoler un magasin
+dans la liste met en évidence son point sur la carte, et inversement. Deux noms de
+magasins sont masqués.
 
 ![Carte des magasins](09-carte-magasins.png)
 
