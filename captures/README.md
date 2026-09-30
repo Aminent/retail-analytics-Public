@@ -3,6 +3,20 @@
 Interface en français, thème clair. Les noms d'enseigne, de magasins et de caméras
 ont été remplacés par des noms neutres ; aucune image de caméra ne montre de personne.
 
+## Comparatif des magasins
+
+Deux magasins côte à côte sur la même période : visiteurs, conversion, panier moyen,
+et l'écart entre les deux. Sur cet exemple le second magasin n'a pas encore de
+caméras en service, d'où les valeurs à zéro.
+
+![Comparatif des magasins](10-comparateur.png)
+
+## Carte des magasins
+
+Les magasins de l'enseigne, sur la vue globale.
+
+![Carte des magasins](09-carte-magasins.png)
+
 ## Analyse magasin
 
 Comptage temps réel, comparaison avec la veille à la même heure, détail par entrée.
