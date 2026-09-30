@@ -114,7 +114,21 @@ caméras de ~45 % à **10 %**.
 
 ## Captures d'écran
 
-→ [captures/](captures/)
+Analyse par rayon — indicateurs, vues caméra, classements et taux d'achat :
+
+![Analyse par rayon](captures/04-analyse-rayon.png)
+
+Analyse magasin — comptage temps réel et détail par entrée :
+
+![Analyse magasin](captures/02-analyse-magasin.png)
+
+Conversion — ventes rapprochées de la fréquentation :
+
+![Conversion](captures/08-conversion.png)
+
+→ Les autres écrans : [captures/](captures/)
+
+*(Noms d'enseigne, de magasins et de caméras remplacés par des noms neutres.)*
 
 ## Ordres de grandeur
 
